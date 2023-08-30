@@ -1,6 +1,6 @@
 .vscode/
 .terraform/
 .terraform.lock.hcl
-web.pem
+*.pem
 *.auto.tfvars
 *.tfvars
